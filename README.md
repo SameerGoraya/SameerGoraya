@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SameerGoraya
+- 👋 Hi, I’m Sameer Hassan
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on Programming(Coding).
